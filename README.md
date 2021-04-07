@@ -19,20 +19,20 @@ Credit: https://www.nngroup.com/articles/how-to-conduct-a-heuristicevaluation/
 
 ## App: GardenTags
 
-<p float="left">
-  <img src="./images/discover2.PNG" height="500px" /> |  
-  <img src="./images/discover1.PNG" height="500px" />
-</p>
-
-This app can be likened to having a social media platform dedicated specifically to
+*This app can be likened to having a social media platform dedicated specifically to
 gardening, with the additional feature of creating to-do lists for garden
 maintenance. The app allows users to post pictures of their gardens, as well as
 find and follow other gardeners based on filters such as experience level, space
 available for gardening, and location. These functionalities of the app make it a
 good model for the kind of platform I would like to create, so I will be using it as a
-reference.
+reference.*
 
-**Overall Evaluation:** In general, the app is easy to navigate and use, with and seems
+<p float="left">
+  <img src="./images/discover2.PNG" height="500px" /> |  
+  <img src="./images/discover1.PNG" height="500px" />
+</p>
+
+> **Overall Evaluation:** In general, the app is easy to navigate and use, with and seems
 to be primarily targeted towards people seeking a virtual community for
 gardening. It has some issues with respect to intuitive design, as well as with
 flexibility and efficiency of certain features. Overall though, it fulfils its role as a
