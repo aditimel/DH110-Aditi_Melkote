@@ -3,9 +3,9 @@
 
 ### Grow as you go: Gardening for beginners
 
-> Over the course of the past year, the COVID-19 pandemic has resulted in limited social interaction and extended periods of time at home. During this time, I looked to many activities to fill my time, and found that gardening and learning about growing and nurturing plants became one of my favourite things to do. I find it very calming, meaningful and joyful to see my plants grow, figure out what they need, and learn about how best to care for them. Walking around my apartment complex over the past few months, I noticed that many windows and balconies which were previously empty also started to fill up with plants of all kinds, indicating that gardening is an activity many people in my area have become interested in.
+> Over the course of the past year, the COVID-19 pandemic has resulted in limited social interaction and extended periods of time at home. During this time, I looked to many activities to fill my time, and found that gardening and learning about growing and nurturing plants became one of my favourite things to do. I find it very calming, meaningful and joyful to see my plants grow, figure out what they need, and learn about how best to care for them. Walking around my apartment complex over the past few months, I noticed that many windows and balconies which were previously empty also started to fill up with plants of all kinds, indicating that gardening is an activity many people in my area have become interested in. 
 
-> Given my personal interest and growing interest in my local community, I would like this project to be an all-in-one platform that provides beginners a clear starting point and guidance for their gardening journey, as well as the ability to connect with other gardeners in their community to learn from and share experiences with.
+> Given my personal interest and the budding interest in my local community, through this project I hope to create an all-in-one platform that provides beginners a clear starting point and the necessary guidance in their gardening journey, as well as the ability to connect with and learn from other gardeners in their community.
 
 #### Severity Rating
 1 = Cosmetic problem only: need not be fixed unless extra time is available on
@@ -19,6 +19,8 @@ project
 Credit: https://www.nngroup.com/articles/how-to-conduct-a-heuristicevaluation/
 
 ## App: GardenTags
+
+App downloaded through the Apple Store; URL for download: https://apps.apple.com/us/app/garden-tags-plant-identification/id852472656)
 
 *This app can be likened to having a social media platform dedicated specifically to
 gardening, with the additional feature of creating to-do lists for garden
@@ -117,6 +119,21 @@ quite well.
 *Improvements: Add a "help" page within the app, or provide a link to an online FAQ or customer service page outside the app, so that users can seek help as they need it.*
 
 **Severity rating:** 3
+
+---
+
+## Website: National Parks - Gardening
+
+URL: https://www.nparks.gov.sg/gardening
+
+*This website is a respository of gardening information, with lots of information specific to Singapore, where I live. The site provides resources for gardeners, information on community gardens, and other garden-related events . As I am interested in creating a platform to connect gardeners within my local community, referencing the National Parks website and the resources it provides will be very relevant and useful to my project.*
+
+##### Home Page:
+<img src="./images/garden1.png" height="300px"> 
+
+##### One of the pages within the website:
+<img src="./images/garden3.png" height="300px">
+
 
 
 
