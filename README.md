@@ -7,7 +7,7 @@
 
 > Given my personal interest and the budding interest in my local community, through this project I hope to create an all-in-one platform that provides beginners a clear starting point and the necessary guidance in their gardening journey, as well as the ability to connect with and learn from other gardeners in their community.
 
-#### Severity Rating
+### Severity Rating
 1 = Cosmetic problem only: need not be fixed unless extra time is available on
 project
 
@@ -20,7 +20,9 @@ Credit: https://www.nngroup.com/articles/how-to-conduct-a-heuristicevaluation/
 
 ## App: GardenTags
 
-App downloaded through the Apple Store; URL for download: https://apps.apple.com/us/app/garden-tags-plant-identification/id852472656)
+App downloaded through the Apple Store
+
+URL for download: https://apps.apple.com/us/app/garden-tags-plant-identification/id852472656)
 
 *This app can be likened to having a social media platform dedicated specifically to
 gardening, with the additional feature of creating to-do lists for garden
