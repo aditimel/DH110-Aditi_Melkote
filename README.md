@@ -3,11 +3,9 @@
 
 ### Grow as you go: Gardening for beginners
 
-#### Description of the project:
+> Over the course of the past year, the COVID-19 pandemic has resulted in limited social interaction and extended periods of time at home. During this time, I looked to many activities to fill my time, and found that gardening and learning about growing and nurturing plants became one of my favourite things to do. I find it very calming, meaningful and joyful to see my plants grow, figure out what they need, and learn about how best to care for them. Walking around my apartment complex over the past few months, I noticed that many windows and balconies which were previously empty also started to fill up with plants of all kinds, indicating that gardening is an activity many people in my area have become interested in.
 
-Over the course of the past year, the COVID-19 pandemic has resulted in limited social interaction and extended periods of time at home. During this time, I looked to many activities to fill my time, and found that gardening and learning about growing and nurturing plants became one of my favourite things to do. I find it very calming, meaningful and joyful to see my plants grow, figure out what they need, and learn about how best to care for them. Walking around my apartment complex over the past few months, I noticed that many windows and balconies which were previously empty also started to fill up with plants of all kinds, indicating that gardening is an activity many people in my area have become interested in.
-
-Given my personal interest and growing interest in my local community, I would like this project to be an all-in-one platform that provides beginners a clear starting point and guidance for their gardening journey, as well as the ability to connect with other gardeners in their community to learn from and share experiences with.
+> Given my personal interest and growing interest in my local community, I would like this project to be an all-in-one platform that provides beginners a clear starting point and guidance for their gardening journey, as well as the ability to connect with other gardeners in their community to learn from and share experiences with.
 
 #### Severity Rating
 1 = Cosmetic problem only: need not be fixed unless extra time is available on
@@ -102,7 +100,23 @@ quite well.
 
 **Severity rating:** 2
 
+<img src="./images/discover3.jpeg" height="300px">
+
 ### 9. Help users recognise, diagnose, and recover from errors
+
+**Good:** When a user performs an error, the app makes use of friendly and forgiving language, such as saying "Oops!, which puts the user at ease. It also provides clear instructions on how to proceed and undo the error - when a user wants to add a task through the "Tasks" page, they need to provide camera access, if they don't, an "Oops!" error message is displayed and the user is informed that camera access is required to proceed.
+
+*No Improvements: The app is able to quickly indicate errors to users and guide them through fixing the error and moving on very well.*
+
+### 10. Help and documentation
+
+**Good:** After initially signing up for the app, there is a short tutorial that takes users through the various pages and functionalities of the app, providing initial help for new users
+
+**Bad:** Following this initial tutorial, there are no help pages or tabs within the app, meaning users are left to themselves to figure out how things work if they forget.
+
+*Improvements: Add a "help" page within the app, or provide a link to an online FAQ or customer service page outside the app, so that users can seek help as they need it.*
+
+**Severity rating:** 3
 
 
 
