@@ -134,6 +134,46 @@ URL: https://www.nparks.gov.sg/gardening
 ##### One of the pages within the website:
 <img src="./images/garden3.png" height="300px">
 
+>Overall evaluation: This is quite a straightforward and simple site, targeted at people looking to learn more about the practice of gardening as well as gardening-related events. There are some issues mainly relating to consistency of the pages within the site, but these are not too problematic towards the user experience of the site.
+
+### 1. Visibility of system status
+
+**Good:** The various pages within the website are listed along the left side, as well as in the middle with picture - hovering over and selecting one of the pages makes it underlined, indicating that it has been selected. For some of the pages, upon selection there will be a further menu of links that appear below it, which also will be underlined when clicked on, so the user knows which page they are on in the site.
+
+*No Improvements: The website has measures that clearly indicate which page the user is on.*
+
+### 2. Match between system and real world
+
+**Good:** When the user scrolls to the bottom of the page, a "Back to Top" button appears on the bottom right. It only appears towards the bottom of the page, and disappears once back at the top. This makes sense in terms of its purpose - we would only expect to go back to the top of the page once we scroll down, and accordingly, the "Back to Top" button only appears at the bottom of the page.
+
+**Bad:** The order of pages on the page is quite unintuitive, particularly for a beginner. Beginner users would expect the first page link on the website to be "Gardening resources", which details how to care for plants and which plants to start growing. Instead, "Gardening resources" is the fourth link on the website's landing page, and the first few links are related to community gardening initiatives.
+
+*Improvements: "Gardening resources" should be moved up to being the first page linked on the site, followed by other links to community gardening and events.*
+
+**Severity rating:** 2
+
+### 3. User control and freedom
+
+**Good:** Users can easily enter and exit pages in the website. Firstly, they can select the pages they wish to enter into by clicking on the links to the left, or the links alongside pictures and descriptions in the main body of the site. Once inside a particular page, users can exit the page simply by clicking on a different page along the page links on the left, or by clicking on the title of the previous page on the directory in the green banner along the top of the site. Also, if users mistakenly click on the "Ask Jamie @NParks" help button on the right of the page, there is a minimise icon which can undo the action and collapse the help button once again.
+
+*No Improvements: The site has enough measures to allow users to easily navigate into and out of pages within it.*
+
+### 4. Consistency and standards
+
+**Good:** The location of the help button, share button, and rating button is the same on all pages in the site.
+
+**Bad:** For some of the pages, the embedded links appear both as a list under the page title in the menu on the left as well as in the main body of the page. However in other pages, embedded links are only provided under the page title in the menu, but not within the body of the page itself. In order to use the "Ask Jamie @NParks" help button, the user has to click on it. However to use the share button right below it, the user has to hover over it to expand the button, then click on the relevant icons. Also, lack of consistency in the shade of green used for hyperlinks in certain pages means that users sometimes click on green text that is not a hyperlink by mistake, which can be frustrating.
+
+*Improvements: Display all embedded links within the body of the site as well, so as to maintain consistency in the design and users' expectations of where the links will be on the page. Make the action to use the help and share buttons consistent - either require both buttons to be clicked on, or both to be hovered over to use. Also, use a consistent shade of green for hyperlinked text.*
+
+**Severity rating:** 1
+
+### 5. Error prevention
+
+**Good:** When clicking on the icons to share to twitter or facebook, the site redirects to a draft post  instead of directly posting, thus giving the user the opportunity to backtrack and delete the post if it was unintentional, or check for any last errors before posting it.
+
+*No improvements: There are not many errors to be committed within the use of this site as it is quite simplistic in design and purpose, and it is able to provide measures for error prevention.*
+
 
 
 
