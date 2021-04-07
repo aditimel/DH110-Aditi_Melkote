@@ -38,3 +38,30 @@ gardening. It has some issues with respect to intuitive design, as well as with
 flexibility and efficiency of certain features. Overall though, it fulfils its role as a
 platform for gardening enthusiasts to share photos and connect with one another
 quite well.
+
+### **1. Visibility of system status** 
+**Good:** The icons at the bottom are highlighted in green when user navigates to a page, further the name of that page also appear in the top banner, thus there is clear indication of which page a user is on. The tabs on the top of the discover page also function similarly - they turn from grey to green and underlined when selected, so the user knows which tab they are on. Additionally the icons to like, comment, and save a post also get highlighted in green to indicate that the corresponding action has been performed.
+  
+**No improvements:** For this heuristic there seem to be enough measures in place for the user to clearly understand which tab or page of the app they are on, and which actions they have performed.
+
+
+### **2. Match between system and real world**
+
+**Good:** The discover page, which contains a constantly updating feed of posts,can be navigated naturally by scrolling down to reveal more posts. In the profile section, there are plus icons in regions where the user can add more information, which is again an intuitive use of the plus symbol. The camera icon in the bottom middle also clearly indicates its purpose for taking pictures. 
+
+**Bad:** The "View More" button below each post does not make it explcitly clear as to what kind of information it will reveal more of - turns out, on tapping the button, it reveals more comments related to the post, which is not initially obvious. Also, there is a lack of intuitive design when it comes to searching for tags - under the "#Tags" tab, there is no option to search for tags. Instead, users have to tap on the search icon in the top right to be able to search for tags. The encyclopedia functionality, which allows users to search for different plant names and pictures, is placed under the "following" page, which is not where a user would naturally think to look for an encyclopedia function.
+
+**Improvements:** The "View More" button could be renamed to "View More Comments" or something similar which makes it clear that it will allow users to see more comments on the post. There could also be a search functionality within the "#Tags" tab, as opposed to in a separate location, making searching for tags more convenient and intuitive. As for the encyclopedia functionality, as per its purpose to help users search for and discover information about plants, it would make sense to be placed under the "discover" page. 
+
+**Severity Rating:** 2
+
+### 3. User control and freedom
+
+
+
+
+
+
+
+
+
