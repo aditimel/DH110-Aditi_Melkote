@@ -166,13 +166,53 @@ URL: https://www.nparks.gov.sg/gardening
 
 *Improvements: Display all embedded links within the body of the site as well, so as to maintain consistency in the design and users' expectations of where the links will be on the page. Make the action to use the help and share buttons consistent - either require both buttons to be clicked on, or both to be hovered over to use. Also, use a consistent shade of green for hyperlinked text.*
 
-**Severity rating:** 1
+**Severity rating:** 2
 
 ### 5. Error prevention
 
 **Good:** When clicking on the icons to share to twitter or facebook, the site redirects to a draft post  instead of directly posting, thus giving the user the opportunity to backtrack and delete the post if it was unintentional, or check for any last errors before posting it.
 
 *No improvements: There are not many errors to be committed within the use of this site as it is quite simplistic in design and purpose, and it is able to provide measures for error prevention.*
+
+### 6. Recognition rather than recall
+
+**Good:** The website uses the well-known icons to indicate sharing to twitter and facebook, so the user is already aware of what clicking on those icons will do. The website also makes use of a smiley face emoji in the bottom left to indicate that clicking on the emoji will request users to rate the site.
+
+*No Improvements: The site makes good use of popular icons and their meanings so that users can quickly recognise what they mean without too much effort.*
+
+### 7. Flexibility and efficiency of use
+
+**Good:** The nesting of further links within pages ensures that information is well organised, allowing for efficient navigation of the site. In terms of flexibility, the users are given the option to view embedded videos either on the page itself, or navigate to YouTube or other external site if they prefer. The help button, which allows users to speak with a virtual assistant, consists of list of frequently asked questions and hot topics, cutting down the time required by users to communicate with the virtual asistant if they find their query in the list provided - thus increasing the efficiency of their experience.
+
+**Bad:** Again, as mentioned under consistency and standards, full flexibility is prevented by the fact that in some cases users can navigate embedded links along the side menu and within the page, while in other cases they cannot.
+
+*Improvements: Provide embedded page links both in the side menu and in the page itself to allow for flexibility with navigation.*
+
+**Severity rating:** 2
+
+### 8. Aesthetic and minimal design:
+
+**Good:** Simple colour scheme composed of dark greens, greys, and beige. The layout of the site is also very minimal and easy to understand and navigate.
+
+**Bad:** The left menu takes up close to a third of the space on the site.
+
+*Improvements: Make the menu on the left collapsible, so that there is more space for the main body content of the site.*
+
+**Severity rating:** 1
+
+### 9. Help users recognise, diagnose, and recover from errors
+
+**Good:** Some of the links in the site's pages were no longer working and led to error 404 pages - however they clearly explained that there was no content on the page, and provided a link to go back to the home page.
+
+*No Improvements: The site is able to help users identify when errors have occurred and tell them how to move forward following the error.*
+
+### 10. Help and documentation
+
+**Good:** The website has both and FAQ page at the bottom, as well as a virtual assistant button on the right side - this virtual assistant is available for each page in the website, and also comes with a list current top topics and questions. Thus users have two different modes of seeking help with any issues they may face while usingthe website, or to get any queries answered.
+
+*No Improvements: The site provides sufficient resources for users looking for help.*
+
+
 
 
 
