@@ -88,7 +88,7 @@ quite well.
 
 *No Improvements: The app generally has enough similarities to popular social media platforms, particularly instagram, to allow for recogntion of common icons and functionalities and reduce the cognitive load on the user.*
 
-### Flexibility and efficiency of use
+### 7. Flexibility and efficiency of use
 
 **Bad:** Under each post, the number of likes and comments the post received is indicated - however the user cannot tap on this information to find out who liked the posts or read other comments. Instead, they have to tap on the "View More" button, which leads to another page with all the comments, and on this second page, the user needs to tap the number of likes, which will lead to yet another page showing the users who liked the post. Thus there are a lot of unnecessary steps to determine some basic information.
 
