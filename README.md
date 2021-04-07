@@ -11,9 +11,12 @@ Given my personal interest and growing interest in my local community, I would l
 
 #### Severity Rating
 1 = Cosmetic problem only: need not be fixed unless extra time is available on
-project <p>
-2 = Minor usability problem: fixing this should be given low priority <p>
-3 = Major usability problem: important to fix, so should be given high priority <p>
+project
+
+2 = Minor usability problem: fixing this should be given low priority
+
+3 = Major usability problem: important to fix, so should be given high priority
+
 
 Credit: https://www.nngroup.com/articles/how-to-conduct-a-heuristicevaluation/
 
@@ -42,7 +45,7 @@ quite well.
 ### **1. Visibility of system status** 
 **Good:** The icons at the bottom are highlighted in green when user navigates to a page, further the name of that page also appear in the top banner, thus there is clear indication of which page a user is on. The tabs on the top of the discover page also function similarly - they turn from grey to green and underlined when selected, so the user knows which tab they are on. Additionally the icons to like, comment, and save a post also get highlighted in green to indicate that the corresponding action has been performed.
   
-**No improvements:** For this heuristic there seem to be enough measures in place for the user to clearly understand which tab or page of the app they are on, and which actions they have performed.
+*No improvements: For this heuristic there seem to be enough measures in place for the user to clearly understand which tab or page of the app they are on, and which actions they have performed.*
 
 
 ### **2. Match between system and real world**
@@ -51,12 +54,31 @@ quite well.
 
 **Bad:** The "View More" button below each post does not make it explcitly clear as to what kind of information it will reveal more of - turns out, on tapping the button, it reveals more comments related to the post, which is not initially obvious. Also, there is a lack of intuitive design when it comes to searching for tags - under the "#Tags" tab, there is no option to search for tags. Instead, users have to tap on the search icon in the top right to be able to search for tags. The encyclopedia functionality, which allows users to search for different plant names and pictures, is placed under the "following" page, which is not where a user would naturally think to look for an encyclopedia function.
 
-**Improvements:** The "View More" button could be renamed to "View More Comments" or something similar which makes it clear that it will allow users to see more comments on the post. There could also be a search functionality within the "#Tags" tab, as opposed to in a separate location, making searching for tags more convenient and intuitive. As for the encyclopedia functionality, as per its purpose to help users search for and discover information about plants, it would make sense to be placed under the "discover" page. 
+*Improvements: The "View More" button could be renamed to "View More Comments" or something similar which makes it clear that it will allow users to see more comments on the post. There could also be a search functionality within the "#Tags" tab, as opposed to in a separate location, making searching for tags more convenient and intuitive. As for the encyclopedia functionality, as per its purpose to help users search for and discover information about plants, it would make sense to be placed under the "discover" page.* 
 
 **Severity Rating:** 2
 
 ### 3. User control and freedom
 
+**Good:** The app allows users to enter and exit tabs and pages simply by tapping a different tab or page. The tabs at the top of the "discover" page allows users to the choice to navigate between different categories. The globe icon at the top left of the "discover" page also allows users to change their country of location as they wish, giving them access to posts and users from different locations. Users can follow others by tapping on the follow button next to posts, and unfollow by pressing the same button thereby easily undoing the action. Users can also go into their settings and edit their profile to update their information as and when they wish to.
+
+*No Improvements: Overall the app allows enough freedom and control for the user to navigate, make changes and adjust the way they interact with it to their preferences.*
+
+### 4. Consistency and standards
+
+**Good:** The design and functioning of the tabs in each page is consistent - all of them become highlighted and underlined in green when selected, and turn grey when not selected.
+
+*No Improvements: The overall design of the app is very consistent across all its pages.*
+
+### 5. Error prevention
+
+**Good:** When initially signing up for the app, the user is asked to provide information such as first name, surname, email, and create a password - if any of these fields were left empty, the app would show an error message upon submission and prompt the user to go back and fill in the necessary data. When signing up, the app also asks users about their gardening interests, and provides a checklist - the app clearly indicates that users can select more than one option in this checklist, so that users don't make the mistake of assuming they can select only one and unintentionally limiting themselves.
+
+**Bad:** Upon selecting the icon to buy a plant, it leads to a blank page with no information.
+
+*Improvements: Provide some kind of information instead of leaving the page blank, such as that the plant is unavailable. Leaving the page blank causes the user to question whether it is an issue with the app or with their internet connection, which can cause them to be frustrated.*
+
+**Severity rating:** 3
 
 
 
