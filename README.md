@@ -18,3 +18,8 @@ project <p>
 Credit: https://www.nngroup.com/articles/how-to-conduct-a-heuristicevaluation/
 
 ## App: GardenTags
+
+<p float="left">
+  <img src="./images/discover2.PNG" height="500px" /> |  
+  <img src="./images/discover1.PNG" height="500px" />
+</p>
