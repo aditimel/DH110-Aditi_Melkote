@@ -80,6 +80,33 @@ quite well.
 
 **Severity rating:** 3
 
+### 6. Recognition rather than recall
+
+**Good:** The icons to like a post is a heart, to comment on a post is a speech bubble, and to save a post is a star - all these icons are very intuitive in terms of what they do, and are replicated from other social media platforms such as instagram which have popularised and normalised their meaning and purpose, so the user knows what to do when they encounter these icons below posts in this app.
+
+*No Improvements: The app generally has enough similarities to popular social media platforms, particularly instagram, to allow for recogntion of common icons and functionalities and reduce the cognitive load on the user.*
+
+### Flexibility and efficiency of use
+
+**Bad:** Under each post, the number of likes and comments the post received is indicated - however the user cannot tap on this information to find out who liked the posts or read other comments. Instead, they have to tap on the "View More" button, which leads to another page with all the comments, and on this second page, the user needs to tap the number of likes, which will lead to yet another page showing the users who liked the post. Thus there are a lot of unnecessary steps to determine some basic information.
+
+*Improvements: Instead of leading to multiple pages, the app can be configured such that simply tapping on the number of likes and comments information below the post leads directly to the required data.*
+
+**Severity rating:** 2
+
+### 8. Aesthetic and minimal design:
+
+**Good:** The colour scheme is very simple, comprised of only two colours - green and white. The design of the "discover" page in particular is rather crowded, with multiple tabs at the top of the page, buttons on the side and below each post, as well as an additional search functionality on the top right and location-changing functionality on the top left.
+
+*Improvements: In conjunction with the above heuristic on efficiency of use, the "Latest", "Popular", and "#Tags" tabs could likely be removed - users could instead be prompted to search for this information when the click on the search icon on the top right. This would help improve the cluttered layout and make more space on the screen for the posts.*
+
+**Severity rating:** 2
+
+### 9. Help users recognise, diagnose, and recover from errors
+
+
+
+
 
 
 
