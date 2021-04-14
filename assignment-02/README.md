@@ -17,7 +17,7 @@ The process of testing involved the following steps: the participant was given a
 The usability materials can be accessed using [this link](https://forms.gle/zsaZ6vbeV67m6Mgt5)
 
 ## Pilot Testing Video
-The pilot test video can be accessed using [this link](https://drive.google.com/file/d/1m9pN6OKjlyiROtycq_VzFkeiwLTd2R6H/view?usp=sharing). The pilot test screen recording can be accessed using [this link](https://drive.google.com/file/d/1PEVkEVYWSesBMqajeazPuq1t1YGgsnxw/view?usp=sharing)
+The pilot test screen recording can be accessed using [this link](https://drive.google.com/file/d/1m9pN6OKjlyiROtycq_VzFkeiwLTd2R6H/view?usp=sharing). The pilot test video can be accessed using [this link](https://drive.google.com/file/d/1PEVkEVYWSesBMqajeazPuq1t1YGgsnxw/view?usp=sharing)
 
 ## Reflection
 
