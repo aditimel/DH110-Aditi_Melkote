@@ -1,6 +1,5 @@
 # Assignment 3: Contextual Inquiry
-### DH110, Aditi Melkote
-
+## DH110, Aditi Melkote
 ----
 ## Specify the main design challenge
 #### What is the main activity your project would support the users in accomplishing?
