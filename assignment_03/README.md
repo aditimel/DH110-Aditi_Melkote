@@ -37,9 +37,9 @@ Specifically, I wanted to learn how the user would go about gathering informatio
 The link for the interview script can be accessed [here](https://docs.google.com/document/d/1zWOFOxu9cGEg2FUN2gCjp4-UfkLEV_Z0Xlqr1NtYOKM/edit)
 
 ### User Data
-The screen recording (no audio) for the search task can be accessed here
+The video for the session can be accessed here [here](https://drive.google.com/file/d/1a13a7nPK8hLirQ4u035H9RuUAALc0H7e/view?usp=sharing)
 
-The video/audio for the session can be accessed here
+The screen recording (no audio) for the search task can be accessed [here](https://drive.google.com/file/d/1GJOAuB3pgu_d7cxLeLgYAWkffhOpnasL/view?usp=sharing)
 
 The transcript of the session can be accessed [here](https://docs.google.com/document/d/15fPHRXn37V4AMv8LC2HsT22vx4xTvj0VEWXtP8EvHh8/edit)
 
