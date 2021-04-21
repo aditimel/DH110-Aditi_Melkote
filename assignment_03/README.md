@@ -28,8 +28,8 @@
 #### What would the users do to complete that activity?
 - For those who are getting started with gardening, they would likely first look for which plants would be easy/suitable for them to grow, proceed to purchase seeds or seedlings for those plants, or get plant cuttings from a friend. They might purchase plants from a local nursery, or online. They would also likely purchase any necessary implements such as plant pots, watering cans, fertilisers, etc. if they didn't have these. Following this they would need to look up how to care for the plants, and then proceed to do so in order to grow the plants successfully.
 
-## Pick research method
-The research method I have chosen is participatory observation, which involved observing the user perform a task, with the user thinking out loud as they did, and me asking questions regarding their choices and actions when necessary. 
+## Pick research method(s)
+The research methods I have chosen are interview and participatory observation. Participatory observation involved observing the user perform a task, with the user thinking out loud as they did, and me asking questions regarding their choices and actions when necessary. 
 
 Specifically, I wanted to learn how the user would go about gathering information if they wanted to start gardening themselves, and what kinds of information they would be looking for. In order to do so, I asked the user what they would do if they were a beginner at gardening and wanted to get started, and observed what they did, paying particular attention to how they gathered information on this topic (such as which website/app/other platforms or media they used), and what specific information they looked for. As I observed the user make certain choices regarding what they searched for, I asked them questions to understand their reasoning and thought process. I also asked some follow-up questions to understand the user's satisfaction with their search, about what next steps the user would take, and finally some questions about what frustrations they faced during the task and what difficulties they perceived affected people who want to get into gardening.
 
