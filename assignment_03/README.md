@@ -1,5 +1,5 @@
 # Assignment 3: Contextual Inquiry
-## DH110, Aditi Melkote
+### DH110, Aditi Melkote
 
 
 ## Specify the main design challenge
