@@ -1,6 +1,7 @@
 # Assignment 3: Contextual Inquiry
 ## DH110, Aditi Melkote
-----
+
+
 ## Specify the main design challenge
 #### What is the main activity your project would support the users in accomplishing?
  - This project aims to provide personalised guidance to users who are getting started withing gardening, by giving advice on plants to grow, how to care for them, and the ability to track plant growth progress and plant-care tasks. By doing so, I hope that users will be encouraged to take up gardening, and stick with it in the long run.
