@@ -23,7 +23,7 @@
 - Expertise - Users don't need any gardening expertise, some familiarity using a mobile device and apps with multiple functionalities would be helpful
 
 #### Where would the users do that activity?
-> Users can garden in many settings. In urban environments, where people may not have much outdoor space, they may opt for hydroponics or other forms of vertical gardening, or they may grow a few plants in pots on their balcony, or even indoors. Those who have more outdoor space, such as a frontyards or backyards, have the option to garden in the more traditional sense i.e. outside, on a patch of land.
+- Users can garden in many settings. In urban environments, where people may not have much outdoor space, they may opt for hydroponics or other forms of vertical gardening, or they may grow a few plants in pots on their balcony, or even indoors. Those who have more outdoor space, such as a frontyards or backyards, have the option to garden in the more traditional sense i.e. outside, on a patch of land.
 
 #### What would the users do to complete that activity?
 - For those who are getting started with gardening, they would likely first look for which plants would be easy/suitable for them to grow, proceed to purchase seeds or seedlings for those plants, or get plant cuttings from a friend. They might purchase plants from a local nursery, or online. They would also likely purchase any necessary implements such as plant pots, watering cans, fertilisers, etc. if they didn't have these. Following this they would need to look up how to care for the plants, and then proceed to do so in order to grow the plants successfully.
