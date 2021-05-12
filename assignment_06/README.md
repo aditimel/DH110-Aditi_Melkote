@@ -13,9 +13,9 @@
 
 ## Screen Designs
 
-### Representative screen designs
-
 The link to the Figma page with these screen designs can be accessed through this [link](https://www.figma.com/file/f7e0D0pwHLVgErHCEI2HDe/screen-designs?node-id=0%3A1).
+
+### Representative screen designs
 
 <img src="/images/all-designs-scrshot.png">
 
