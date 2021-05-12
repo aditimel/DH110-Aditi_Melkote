@@ -51,7 +51,7 @@ From the above screenshots we can see that the dark green colour used for the ti
 ## Impression test
 ### Quotations from user:
 - "Overall seems quite easy to use"
-- "Orange-pink and green colour against light, pastel yellow background is very pleasant and soothing visually"
+- "Love the colours. The orange-pink and green colour against light, pastel yellow background is very pleasant and soothing visually"
 - "There seems to be a mismatch between the text size and button size here - the third button has smaller text "(this was specifically in reference to buttons on the indoor-outdoor question screen in feature (a))
 - "The text seems a bit congested along with the image, too compact" (in reference to the drop-down box in the second screen for feature (b))
 - "The add task icon is very clear and intuitive, I like that" (referring to feature (c))
