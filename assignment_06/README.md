@@ -36,6 +36,8 @@ The following are three design variations of the "add-task-1" screen (see (c) ab
 
 - **Layout grid and spacing**
 > For the first feature, the layout primarly consisted of nine rows and two columns (for the back < and next > buttons); the second feature involved nine rows again but no columns since there are no buttons at the bottom for this feature, and for the third feature, again I implemented nine rows but no columns. For text spacing, whenever there was a block of text I ensured that the spacing between lines is equal to 1.5x the font size - this was again implemented to ensure greater accessibility.
+> 
+> I also made the buttons, icons and tabs have rounded edges, again to create a sense of friendliness and comfort in the interface for beginner gardeners. 
 
 
 ## Accessibility test
