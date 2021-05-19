@@ -74,10 +74,16 @@ From the above screenshots we can see that the dark green colour used for the ti
 - "Oh I really like the dark mode version!"
 
 ## Cognitive Walkthrough
-**Screen recording for all three tasks can be accessed through this** [link]()
+Screen recording for **Task 1** can be accessed through this [link](https://drive.google.com/file/d/1AFa_3JbC-qA5BcNWuys2sThaFwMgr9xl/view?usp=sharing)
+Screen recording for **Task 2** can be accessed through this [link](https://drive.google.com/file/d/1GcRI91Na6sCkbtCULvL49Yjc8p3lKZbn/view?usp=sharing)
+Screen recording for **Task 3** can be accessed through this [link](https://drive.google.com/file/d/1Ken-WjBbFLTY88goo7gm-JtzdhnXUKOz/view?usp=sharing)
+
 **Summary of cognitive walkthrough:**
+In general, the user was able to understand the purpose of each task, and how to proceed with it. I received feedback that for the first task, I should improve the horizontal scrolling feature in the last wireframe, as it wasn't very obvious to them that they should scroll. They suggested that I go for a grid like structure with different tiles for each plant, such that all recommended plants can be seen on the screen instead of scrolling plant by plant with the horizontal scroll. For the second task, the user was able to get through the task well, but I realised it would have been more logical to have the representative drop down on the first "About this plant" tab, instead of the "Soil Type" tab. I saw this when the user tapped on the first tab titled "About this plant", but the interactive prototype was configured such that the user had to tap on the "Soil Type" tab. The user, who is a beginner gardener and thus part of my target audience, also suggested that I add a video of the plants in addition to the image in the second task/feature, as a feature they would find useful. In case of the third task, the user said that the icons were clear in terms of their purpose and function, and were able to go through the add task feature and return to the My Plants screen with relative ease. 
+
 
 ## Reflection
-
+Summary of the process, what went smoothly or differently from your expectation
+Overall, I found this process of designing the high-fidelity wireframes and wireflows, and then the interactive prototype quite challenging but interesting at the same time! It helped me learn how to use Figma, which I had not used before. I also understood the value of trial-and-error when creating the interactive prototype, as it forced me to think of how a user who was not familiar with the app would go about navigating through it. In terms of the process, the high-fidelity prototyping began with creating the wireframes based on my low-fidelity prototype - this involved making a lot of decisions regarding the layout, colour scheme, and ensuring that the interface was accessible. As described in the design system section, I chose colours and fonts that evoke a sense of being in nature, as well as convey feelings of friendliness, comfort and kindness, so that my target audience of beginner gardeners would be put at ease when encountering and navigating the app. Colour-contrast testing was conducted to ensure that the interfaces were WGA2.0 AA level accessible. Following this, I added interactions to the wireframes to create the wireflow for each of the tasks, and then proceeded to create the interactive prototypes for each task. I also conducted an impresssion test and cognitive walkthrough to understand the user's thought process and expreience of using the app and perfoming the tasks on the interactive prototypes, and was able to receive some good feedback on what I can improve. 
 
 
