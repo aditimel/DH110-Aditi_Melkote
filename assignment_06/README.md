@@ -9,7 +9,7 @@
 
 **Process:** This high-fidelity prototype has been the culmination of research and information gained from previous steps including usabability testing, contextual inquiry and interview, persona creation, as well as low-fidelity prototyping. These previous steps have allowed me to gather valuable data regarding target users' thoughts, needs, and concerns about starting gardening, features they liked/disliked in other gardening apps and websites, features they would like to see in an app such as the one being prototyped here, as well as their natural interactions with the flow of interfaces in the low-fidelity protoype. Based on observations and feedback from the previous steps, I have made some improvements to my interfaces and features from the low-fidelity prototype to create the following high-fidelity prototype using Figma, incorporating necessary features of user interafce design. The high-fiedlity prototyping will also involve conducting an accessibility check to ensure it is WCAG2.0 AA compliant, as well as an impression test to understand users' initial impressions and perceptions of the prototype interfaces.
 
-**Tasks:** (a) Receive personalised recommendations on which plants to grow; (b) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants; and (c) Set up plant care tasks for chosen plants
+**Tasks:** (1) Receive personalised recommendations on which plants to grow; (2) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants; and (3) Set up plant care tasks for chosen plants
 
 ## Wireframes and Wireflows
 ### Task 1 wireframes and wireflow:
@@ -32,7 +32,7 @@ Interactive prototype for **second task** can be accessed using this [link](http
 Interactive prototype for **third task** can be accessed using this [link](https://www.figma.com/proto/CEdb73Qh7WX6AtRZPXPB3q/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1).
 
 ## Three design variations
-The following are three design variations of the "add-task-1" screen (see (c) above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
+The following are three design variations of the "add-task-1" screen (see Task 3 above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
 
 <img src="/images/three-var.png">
 
@@ -66,10 +66,10 @@ From the above screenshots we can see that the dark green colour used for the ti
 ### Quotations from user:
 - "Overall seems quite easy to use - it looks very natural and garden-y"
 - "Love the colours. The orange-pink and green colour against the light, pastel yellow background is very pleasant and soothing to see"
-- "There seems to be a mismatch between the text size and button size here - the third button has smaller text "(this was specifically in reference to buttons on the indoor-outdoor question screen in feature (a))
-- "The text seems a bit congested along with the image, too compact" (in reference to the drop-down box in the second screen for feature (b))
-- "The add task icon is very clear and intuitive, I like that" (referring to feature (c))
-- "I think the three icons should be smaller and along the top instead of the side" (in reference to the three icons for each plant in feature (c))
+- "There seems to be a mismatch between the text size and button size here - the third button has smaller text "(this was specifically in reference to buttons on the indoor-outdoor question screen in Task 1)
+- "The text seems a bit congested along with the image, too compact" (in reference to the drop-down box in the second screen for Task 2)
+- "The add task icon is very clear and intuitive, I like that" (referring to Task 3)
+- "I think the three icons should be smaller and along the top instead of the side" (in reference to the three icons for each plant in Task 4)
 - "The 'My Plants' title seems a bit too big"
 - "Oh I really like the dark mode version!"
 
