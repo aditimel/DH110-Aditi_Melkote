@@ -74,11 +74,9 @@ From the above screenshots we can see that the dark green colour used for the ti
 - "Oh I really like the dark mode version!"
 
 ## Cognitive Walkthrough
-Screen recording for user attempting **Task 1** on interactive protoype: [link](https://drive.google.com/file/d/1Ken-WjBbFLTY88goo7gm-JtzdhnXUKOz/view?usp=sharing)
-
-Screen recording for user attempting **Task 2** on interactive protoype: [link](https://drive.google.com/file/d/1GcRI91Na6sCkbtCULvL49Yjc8p3lKZbn/view?usp=sharing)
-
-Screen recording for user attempting **Task 3** on interactive protoype: [link](https://drive.google.com/file/d/1AFa_3JbC-qA5BcNWuys2sThaFwMgr9xl/view?usp=sharing)
+- Screen recording for user attempting **Task 1** on interactive protoype: [link](https://drive.google.com/file/d/1Ken-WjBbFLTY88goo7gm-JtzdhnXUKOz/view?usp=sharing)
+- Screen recording for user attempting **Task 2** on interactive protoype: [link](https://drive.google.com/file/d/1GcRI91Na6sCkbtCULvL49Yjc8p3lKZbn/view?usp=sharing)
+- Screen recording for user attempting **Task 3** on interactive protoype: [link](https://drive.google.com/file/d/1AFa_3JbC-qA5BcNWuys2sThaFwMgr9xl/view?usp=sharing)
 
 **Summary of cognitive walkthrough:**
 In general, the user was able to understand the purpose of each task, and how to proceed with it. I received feedback that for the first task, I should improve the horizontal scrolling feature in the last wireframe, as it wasn't very obvious to them that they should scroll. They suggested that I go for a grid like structure with different tiles for each plant, such that all recommended plants can be seen on the screen instead of scrolling plant by plant with the horizontal scroll. For the second task, the user was able to get through the task well, but I realised it would have been more logical to have the representative drop down on the first "About this plant" tab, instead of the "Soil Type" tab. I saw this when the user tapped on the first tab titled "About this plant", but the interactive prototype was configured such that the user had to tap on the "Soil Type" tab. The user, who is a beginner gardener and thus part of my target audience, also suggested that I add a video of the plants in addition to the image in the second task/feature, as a feature they would find useful. In case of the third task, the user said that the icons were clear in terms of their purpose and function, and were able to go through the add task feature and return to the My Plants screen with relative ease. 
