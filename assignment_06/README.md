@@ -31,7 +31,7 @@ Interactive prototype for **second task** can be accessed using this [link](http
 
 Interactive prototype for **third task** can be accessed using this [link](https://www.figma.com/proto/CEdb73Qh7WX6AtRZPXPB3q/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1)
 
-### Three design variations
+## Three design variations
 The following are three design variations of the "add-task-1" screen (see (c) above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
 
 <img src="/images/three-var.png">
@@ -74,7 +74,7 @@ From the above screenshots we can see that the dark green colour used for the ti
 - "Oh I really like the dark mode version!"
 
 ## Cognitive Walkthrough
-### Screen recording for all three tasks can be accessed through this [link]()
+**Screen recording for all three tasks can be accessed through this** [link]()
 **Summary of cognitive walkthrough:**
 
 ## Reflection
