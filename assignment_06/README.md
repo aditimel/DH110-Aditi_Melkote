@@ -1,4 +1,4 @@
-# Assignment 6: User Interface Design: High Fidelity Prototype (Part 1)
+# Assignment 6: User Interface Design: High Fidelity Prototype and Interactive Prototype
 ### Aditi Melkote, DH110
 
 ## Overview
