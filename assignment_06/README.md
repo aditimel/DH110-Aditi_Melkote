@@ -25,11 +25,11 @@
 <img src="/images/t3flow.png">
 
 ## Interactive Prototypes
-Interactive prototype for **first task** can be accessed using this [link](https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype-Task-1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
+Interactive prototype for **first task** can be accessed using this [link](https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype-Task-1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1).
 
-Interactive prototype for **second task** can be accessed using this [link](https://www.figma.com/proto/zuq9lg47KWCb4FZGsvBcqn/Interactive-prototype-Task-2?node-id=1%3A3&scaling=scale-down&page-id=0%3A1)
+Interactive prototype for **second task** can be accessed using this [link](https://www.figma.com/proto/zuq9lg47KWCb4FZGsvBcqn/Interactive-prototype-Task-2?node-id=1%3A3&scaling=scale-down&page-id=0%3A1).
 
-Interactive prototype for **third task** can be accessed using this [link](https://www.figma.com/proto/CEdb73Qh7WX6AtRZPXPB3q/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1)
+Interactive prototype for **third task** can be accessed using this [link](https://www.figma.com/proto/CEdb73Qh7WX6AtRZPXPB3q/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1).
 
 ## Three design variations
 The following are three design variations of the "add-task-1" screen (see (c) above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
@@ -74,9 +74,9 @@ From the above screenshots we can see that the dark green colour used for the ti
 - "Oh I really like the dark mode version!"
 
 ## Cognitive Walkthrough
-Screen recording for **Task 1** can be accessed through this [link](https://drive.google.com/file/d/1AFa_3JbC-qA5BcNWuys2sThaFwMgr9xl/view?usp=sharing)
-Screen recording for **Task 2** can be accessed through this [link](https://drive.google.com/file/d/1GcRI91Na6sCkbtCULvL49Yjc8p3lKZbn/view?usp=sharing)
-Screen recording for **Task 3** can be accessed through this [link](https://drive.google.com/file/d/1Ken-WjBbFLTY88goo7gm-JtzdhnXUKOz/view?usp=sharing)
+Screen recording for user attempting **Task 1** on interactive protoype: [link](https://drive.google.com/file/d/1Ken-WjBbFLTY88goo7gm-JtzdhnXUKOz/view?usp=sharing)
+Screen recording for user attempting **Task 2** on interactive protoype: [link](https://drive.google.com/file/d/1GcRI91Na6sCkbtCULvL49Yjc8p3lKZbn/view?usp=sharing)
+Screen recording for user attempting **Task 3** on interactive protoype: [link](https://drive.google.com/file/d/1AFa_3JbC-qA5BcNWuys2sThaFwMgr9xl/view?usp=sharing)
 
 **Summary of cognitive walkthrough:**
 In general, the user was able to understand the purpose of each task, and how to proceed with it. I received feedback that for the first task, I should improve the horizontal scrolling feature in the last wireframe, as it wasn't very obvious to them that they should scroll. They suggested that I go for a grid like structure with different tiles for each plant, such that all recommended plants can be seen on the screen instead of scrolling plant by plant with the horizontal scroll. For the second task, the user was able to get through the task well, but I realised it would have been more logical to have the representative drop down on the first "About this plant" tab, instead of the "Soil Type" tab. I saw this when the user tapped on the first tab titled "About this plant", but the interactive prototype was configured such that the user had to tap on the "Soil Type" tab. The user, who is a beginner gardener and thus part of my target audience, also suggested that I add a video of the plants in addition to the image in the second task/feature, as a feature they would find useful. In case of the third task, the user said that the icons were clear in terms of their purpose and function, and were able to go through the add task feature and return to the My Plants screen with relative ease. 
