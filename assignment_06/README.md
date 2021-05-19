@@ -11,13 +11,25 @@
 
 **Tasks:** (a) Receive personalised recommendations on which plants to grow; (b) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants; and (c) Set up plant care tasks for chosen plants
 
-## Screen Designs
+## Wireframes and Wireflows
+### Task 1 wireframes and wireflow:
+<img src="/images/t1frames.png">
+<img src="/images/t1flow.png">
 
-The link to the Figma page with these screen designs can be accessed through this [link](https://www.figma.com/file/f7e0D0pwHLVgErHCEI2HDe/screen-designs?node-id=0%3A1).
+### Task 2 wireframes and wireflow:
+<img src="/images/t2frames.png">
+<img src="/images/t2flow.png">
 
-### Representative screen designs
+### Task 3 wireframes and wireflow:
+<img src="/images/t3frames.png">
+<img src="/images/t3flow.png">
 
-<img src="/images/all-designs-scrshot.png">
+## Interactive Prototypes
+Interactive prototype for **first task** can be accessed using this [link](https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype-Task-1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
+
+Interactive prototype for **second task** can be accessed using this [link](https://www.figma.com/proto/zuq9lg47KWCb4FZGsvBcqn/Interactive-prototype-Task-2?node-id=1%3A3&scaling=scale-down&page-id=0%3A1)
+
+Interactive prototype for **third task** can be accessed using this [link](https://www.figma.com/proto/CEdb73Qh7WX6AtRZPXPB3q/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1)
 
 ### Three design variations
 The following are three design variations of the "add-task-1" screen (see (c) above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
@@ -26,16 +38,16 @@ The following are three design variations of the "add-task-1" screen (see (c) ab
 
 ## Design System
 - **Typeface family + size**
-> The type face used for the representative screens/wireframes for each feature is Helvetica Nueue. This font was chosen as it is a default font in iOS devices, in addition to being a sans serif font which makes it easy to read and comprehend, and thus more accessible to a greater number of users. This font is simple and elegant, and for users familiar with the font through their devices, it helps give a friendly, sympathetic, and kind feeling. These are the feelings I want to evoke in my target users, who will be beginners to gardening and thus in unfamiliar territory - through the use of a familar font, I hope that it will contribute to help them feel more at ease as they begin their gardening journey with the app. It was used primarily in bold for titles and subtitles, and ocaissonally in bold italics when giving explanatory information for certain buttons (see the maintenance question in the first feature, the plus button in the third feature). The font was bolded to comply with and enhance accessibility. For the darkmode variation, I used the font Open sans, again in bold and for the lightmode variation I used the font Asap in bold. I chose these fonts again because they were sans serif and hence more accessible. Asap in particular is quite rounded which makes it look closer to handwriting, and thus more friendly and welcoming to the user. As for size, I used a variety of sizes - for most of the titles, such as "Hi Adi!" in task (a), "Pink Rose" in task (b), and "My Plants" in task (c), I used font size 50, as I found this was a nice size to empahsise the titles without making them seem too large or overbearing to the user. For the content text, I used sizes ranging between 22-25, roughly half of the title size, to clearly demarcate between the title and content text.
+> The type face used for the representative screens/wireframes for each feature is Helvetica Nueue. This font was chosen as it is a default font in iOS devices, in addition to being a sans serif font which makes it easy to read and comprehend, and thus more accessible to a greater number of users. This font is simple and elegant, and for users familiar with the font through their devices, it helps give a friendly, sympathetic, and kind feeling. These are the feelings I want to evoke in my target users, who will be beginners to gardening and thus in unfamiliar territory - through the use of a familar font, I hope that it will contribute to help them feel more at ease as they begin their gardening journey with the app. 
+> It was used primarily in **Bold** for titles and subtitles, and in bold italics when giving explanatory information for certain buttons (see the maintenance question in the first task wireframes, and the plus button in the third task wireframes). The font was bolded to comply with and enhance accessibility. For the darkmode variation, I used the font Open sans, again in Bold and for the lightmode variation I used the font Asap in Bold. I chose these fonts again because they were sans serif and hence more accessible. Asap in particular is quite rounded which makes it look closer to handwriting, and thus more friendly and welcoming to the user. As for size, I used a variety of sizes - for most of the titles, such as "Hi Adi!" in task (a), "Pink Rose" in task (b), and "My Plants" in task (c), I used font size 50, as I found this was a nice size to empahsise the titles without making them seem too large or overbearing to the user. For the content text, I used sizes ranging between 22-25px, in Bold. I used 22px in the text for the first task wireframes; and 25px in the text for second and third task wireframes. Once exception is that in the drop down box in task 2 wireframes, I used 15px font. roughly half of the title size, to clearly demarcate between the title and content text.
 - **Color scheme:**
- >  Overall the colour scheme of consists of variations of dark greens, red-pinks, and whites. 
- >    - Background - I used a light tinted yellow-green colour for the background, instead of a bright white, to make the interface more accessible. The light yellow-green was also used to evoke a sense of being in nature, in a garden, to keep with the theme and purpose of the app. In the darkmode variation, I used a dark grey for the background, keeping with the darkmode theme, and for the lightmode variation I used a white background to emphasise this basic, lightmode theme. 
- >   - Text - For text, I used either a dark green, or white (against a darker bakcground). The dark green was chosen again in accordance with the nature/garden aesthetic I want to create, and the dark green can be observed in the title text and some body text in the first feature (personalised recommendations). I used white for the title text in the second and third features, against a darker background, just for some visual contrast and to create visual interest. 
- >  - I also used a red-pink colour with varying opacity for some of the buttons as well as text, to evoke a floral aesthetic in line with the garden theme.
- Overall in terms of the hue and saturation, I tried to keep all the colours I used warm in order to help the user feel comfortable, as though they are in a kind and friendly environment.
+ >  Overall the colour scheme of consists of variations of dark greens, red-pinks, and whites. For all colours used, opacity is 100% unless otherwise specified. 
+ >    - Background - I used a light tinted yellow-green colour (#F8FFF0) for the background, instead of a bright white, to make the interface more accessible. The light yellow-green was also used to evoke a sense of being in nature, in a garden, to keep with the theme and purpose of the app. In the darkmode variation, I used a dark grey (#000000, opacity 63%) for the background, keeping with the darkmode theme, and for the lightmode variation I used a white background (#FFFFFF) to emphasise this basic, lightmode theme. 
+ >   - Text - For text, I used either a dark green (#025918), or white (#FFFFFF, against a darker background). The dark green was chosen again in accordance with the nature/garden aesthetic I want to create, and the dark green can be observed in the title text and some body text in the first feature (personalised recommendations). I used white for the title text in the second and third features, against a darker background, just for some visual contrast and to create visual interest. 
+ >  - I also used a red-pink colour (#F27B50) for buttons in task 1, and for the names of plants in Task 3; a lighter red-pink colour (#FFD3C2) was used as the background for that tabs for each plant in task 3. as well as text, to evoke a floral aesthetic in line with the garden theme. Overall in terms of the hue and saturation, I tried kept all the colours I used warm in order to help the user feel comfortable, as though they are in a kind and friendly environment.
 
 - **Layout grid and spacing**
-> For the first feature, the layout primarly consisted of nine rows and two columns (for the back < and next > buttons); the second feature involved nine rows again but no columns since there are no buttons at the bottom for this feature, and for the third feature, again I implemented nine rows but no columns. For text spacing, whenever there was a block of text I ensured that the spacing between lines is equal to 1.5x the font size - this was again implemented to ensure greater accessibility.
+> For the first feature, the layout primarly consisted of nine rows and two columns (for the back < and next > buttons); the second feature involved nine rows again but no columns since there are no buttons at the bottom for this feature, and for the third feature, again I implemented nine rows but no columns. For text spacing, whenever there was a block of text I ensured that the spacing between lines is equal to 1.5x the font size - this was again implemented to ensure greater accessibility. All the content text in Task 1, 2 and 3 is left-aligned. The buttons in Task 1 are left-aligned only in the first wireframe, and then they are center-aligned in the question wireframes. In general, all components for all wireframes in all tasks have a 16px margin from the edge of screen frame on all sides. 
 > 
 > I also made the buttons, icons and tabs have rounded edges, again to create a sense of friendliness and comfort in the interface for beginner gardeners. 
 
@@ -60,3 +72,12 @@ From the above screenshots we can see that the dark green colour used for the ti
 - "I think the three icons should be smaller and along the top instead of the side" (in reference to the three icons for each plant in feature (c))
 - "The 'My Plants' title seems a bit too big"
 - "Oh I really like the dark mode version!"
+
+## Cognitive Walkthrough
+### Screen recording for all three tasks can be accessed through this [link]()
+**Summary of cognitive walkthrough:**
+
+## Reflection
+
+
+
