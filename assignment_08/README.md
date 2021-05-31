@@ -9,9 +9,10 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+
 Heuristic evaluation can be accessed through this [link](https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/README.md)
 
-Usability Testing can be accessed through this [link](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment-02).
+Usability Testing can be accessed through this [link](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment-02)
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
