@@ -16,10 +16,12 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
+
 [Read more about Contextual Inquiry here](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_03)
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
+
 [Read more about Design Storytelling here](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_04)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
@@ -27,10 +29,12 @@ Summary and link to your assignment folder
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
 [Read more about Low-fidelity prototype here](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_05)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
 [Read more about High-fidelity prototype here](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
 ### Optional evaluation and revision history 
