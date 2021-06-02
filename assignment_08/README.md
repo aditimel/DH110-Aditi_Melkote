@@ -78,10 +78,14 @@ This high-fidelity prototype has been the culmination of research and informatio
 Based on observations and feedback from the previous steps, I made some improvements to my interfaces and features from the low-fidelity prototype to create the following high-fidelity prototype using Figma, incorporating necessary features of user interface (UI) design. Through this high-fidelity prototyping I created  an graphic design element variations, conducted an accessibility check to ensure the prototype is WCAG2.0 AA compliant, interactive prototype, and an impression test and cognitive walkthroigh to understand the user's impressions and perceptions of the prototype interfaces.
 
 **Wireframes and Wireflow**
+
 To improve upon individual wireflows for each task I initially had, I connected the wireframes between the tasks so that a more comprehensive flow of how the app and its interfaces work within the context of the features being tested. 
+
 <img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
 
 **Graphic design variation**
+
+The following are three design variations of the "add-task-1" screen (see Task 3 above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
 
 <img width="557" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
 
