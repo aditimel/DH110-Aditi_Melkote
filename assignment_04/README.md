@@ -3,7 +3,7 @@
 
 ## The purpose of UX Storytelling
 
-- UC storytelling is a means by which to understand how users interact with a product, and see things from the user's perspective.  This process involves creating personas of potential users of  the product in order to understand and develop emapthy for users' goals and challenges, their expectations of the product, what purpose they want it to fulfil in their lives, all of which will allow us to introduce or improve upon features to enhance their user experience accordingly. 
+- UX storytelling is a means by which to understand how users interact with a product, and see things from the user's perspective.  This process involves creating personas of potential users of  the product in order to understand and develop emapthy for users' goals and challenges, their expectations of the product, what purpose they want it to fulfil in their lives, all of which will allow us to introduce or improve upon features to enhance their user experience accordingly. 
 
 ## Features
 
