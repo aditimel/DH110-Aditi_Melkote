@@ -24,6 +24,7 @@
 <img src="/images/t3frames.png">
 <img src="/images/t3flow.png">
 
+
 ## Interactive Prototypes
 Interactive prototype for **first task** can be accessed using this [link](https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype-Task-1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1).
 
@@ -81,6 +82,14 @@ From the above screenshots we can see that the dark green colour used for the ti
 **Summary of cognitive walkthrough:**
 In general, the user was able to understand the purpose of each task, and how to proceed with it. I received feedback that for the first task, I should improve the horizontal scrolling feature in the last wireframe, as it wasn't very obvious to them that they should scroll. They suggested that I go for a grid like structure with different tiles for each plant, such that all recommended plants can be seen on the screen instead of scrolling plant by plant with the horizontal scroll. For the second task, the user was able to get through the task well, but I realised it would have been more logical to have the representative drop down on the first "About this plant" tab, instead of the "Soil Type" tab. The user, who is a beginner gardener and thus part of my target audience, also suggested that I add a video of the plants in addition to the image in the second task/feature, as a feature they would find useful. In case of the third task, the user said that the icons were clear in terms of their purpose and function, and were able to understand how to go through the add task feature and return to the My Plants screen with relative ease. 
 
+## Main Revisions
+
+## Revised wireframes and wireflow
+Based on feedback from my peers and Professor Cho, I have ensured that the flow exists between all wireframes. In order to do this, I had to add an extra task within Task 2 - add plants to the 'My Plants' profile. 
+<img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
+
+## Interactive prototype based on revised wireflow
+The revised interactive prototype can be accessed through this [link](https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
 
 ## Reflection
 
