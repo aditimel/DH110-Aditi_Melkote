@@ -88,7 +88,8 @@ In general, the user was able to understand the purpose of each task, and how to
 Based on feedback from my peers and Professor Cho, I have ensured that the flow exists between all wireframes. In order to do this, I had to add an extra task within Task 2 - add plants to the 'My Plants' profile. 
 <img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
 
-I also made the "+" icon to add a task in Task 3 larger so it is more accessible. 
+I also made the "+" icon to add a task in Task 3 larger so it is more accessible.
+
 <img src="/images/t3frames.png" height="250px"> | <img src="https://user-images.githubusercontent.com/49219437/120504232-8c691480-c3f6-11eb-8da9-7c165e3a7c6f.png" height="250px">
 
 
