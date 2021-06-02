@@ -46,8 +46,10 @@ This is an example of one of the personas, Madeleine Maung:
 The purpose of the low-fidelity prototype is start coming up with the potential wirefrmaes and wireflow of the various features in the app, and check to see if they are logical and effective. Based on my prior heuristic evaluation and usability testing of a similar gardening app (GardenTags), interview and contextual inquiry of a user in my target demographic, and the personas and scenarios created, the features which I developed for the low-fidelity prototype are:
 
 - (1) Receive personalised recommendations on which plants to grow
-- (2) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants
+- (2) Access plant care information for chosen plants (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants
 - (3) Set up plant care tasks for chosen plants.
+
+Thus, through my low-fidelity prototype, I wanted to test whether the three features I came up with were easy to use, functional, and relevant to target users. 
 
 **Task (1) wireflow:**
 
@@ -65,11 +67,6 @@ The purpose of the low-fidelity prototype is start coming up with the potential 
 
 
 
-Thus, through my low-fidelity prototype, I wanted to test whether the three features I came up with were easy to use, functional, and relevant to target users. 
-
-
-
-
 
 Conducting the wireflow tests showed me that the features I came up with are fundamentally useful and easy to understand, which aligned with my goals for this project to make gardening more clear and accessible to beginners. However it has also shown me some of the mistakes in specific details or interactions I have made while designing the features to be improved upon.[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_05)
 
@@ -81,19 +78,31 @@ This high-fidelity prototype has been the culmination of research and informatio
 Based on observations and feedback from the previous steps, I made some improvements to my interfaces and features from the low-fidelity prototype to create the following high-fidelity prototype using Figma, incorporating necessary features of user interface (UI) design. Through this high-fidelity prototyping I created  an graphic design element variations, conducted an accessibility check to ensure the prototype is WCAG2.0 AA compliant, interactive prototype, and an impression test and cognitive walkthroigh to understand the user's impressions and perceptions of the prototype interfaces.
 
 **Wireframes and Wireflow**
-
+To improve upon individual wireflows for each task I initially had, I connected the wireframes between the tasks so that a more comprehensive flow of how the app and its interfaces work within the context of the features being tested. 
 <img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
 
 **Graphic design variation**
+
 <img width="557" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
 
 
 **Interactive Prototype:**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ff7e0D0pwHLVgErHCEI2HDe%2FInteractive-prototype%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
-[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
+[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
 ### Pitch video 
 
 ### Conclusion: what did you learn throughout the process?
+Overall, I really found the entire process of working on this project really interesting and enjoyable! Being new to the discipline of UX design, every week I learned something every week through lecture and working on building this project. It has taught me the fundamental importance of focussing on the user's perspective in design - keeping in mind what the user's response, attitude, feelings, usage patterns, and expectations from the product, as ultimately it is being designed for users and it is important that they have a good experience using the product and benefit from their interaction with it in some way. This user-focussed approach to design was not something I really thought of initially, but a mindset I have develeoped working on this project that has proved to be very useful and important in guiding the course of the final outcome of the high-fidelity prototype. 
+
+One of the aspects of the project I found challenging was conducting the pilot usability and contextual inquiry research. I initially found it difficult to be patient, and not guide their thinking in the direction I wanted them to go. When the user approached the task in a way different to how I had intended, or went off on a seemingly unrelated tangent, I learnt to be more patient and instead of worrying too much, I should just pay attention to their natural thought process when doing the task, and through this onservation and asking follow-up questions, I gained a lot of valuable data, particularly from the contexual inquiry, on what kinds of features and functionalities the user would expect and enjoy in a gardening-related app. Overall, it taught me to really focus on understanding how the user would interact with the product, and pay attention to their thoughts and expressions as they worked through the tasks set up.
+
+One of the most rewarding aspects of the projects was creating the high-fidelity prototype. As a very visual person, it was really fun for me to convert the paper-and-pencil, not very detailed low fidelity prototype into a fully fleshed out, colourful, and aesthetically pleasing high-fidelity prototype. I really enjoyed learning about the various principles of user interface design, and incorporating these into the design of the wireframes. I learnt that good design is accessible to a wide variety of people importance of ensuring visual design and layout is accessible, which is something I had not considered and perhaps taken for granted in the past. Creating the interactive prototype was also really rewarding, seeing the efforts and research of the past weeks essentially come to life! The impression test and cognitive walkthrough portions of high-fidelity prototyping once again allowed me to under user's perspective, and recenter my design on ultimately enhancing their expereicne of the app.
+
+All in all, I had a great time working on this project throughout the quarter! I have gained so much new knowledge about UX/UI design, the various research efforts, design principles, and effort that goes into designing products for users, all in service of enhancing the user experience. I'm excited to apply these skills and experiences to not only my own interactions with apps, websites, and other platforms and products as a user, as well as in my future UX/UI design projects!
+
+
+
+
