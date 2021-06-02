@@ -4,8 +4,8 @@
 ### Introduction
 Over the course of the past year, the COVID-19 pandemic has resulted in limited social interaction and extended periods of time at home. During this time, I looked to many activities to fill my time, and found that gardening became one of my favourite things to do. Over time, caring for my plants and seeing them grow has become a calming, meaningful and joyful activity for me. Going through social media and speaking to my friends and extended family, I found that lots of them had also developed an interest in gardening as a way of spending time during their lockdowns. 
 
-However, as a complete beginner to gardening, I faced challenges in terms of finding reliable, comprehensive, beginner-friendly plant care information online. This was a concern echoed by some of my friends who also wished to start growing plants, but found the initial step into gardening overwhelming and slightly daunting. These experiences sparked the idea for my project - a plant-care app called “Sprout”, that is focussed on providing a clear, reliable, and easy-to-understand starting point and guidance in gardening for beginners. By providing a clear starting point as well as guidance and next steps, users who are just beginning their gardening journey can have the assurance that they will be carefully and kindly guided through the process, allowing it to be more meaningful and enjoyable for them.
-With Sprout, I hope to provide a comprehensive plant-care platform that will be a the first-stop for beginners to gardening.
+However, as a complete beginner to gardening, I faced challenges in terms of finding reliable, comprehensive, beginner-friendly plant care information online. This was a concern echoed by some of my friends who also wished to start growing plants, but found the initial step into gardening slightly daunting and unclear. These experiences sparked the idea for this project - a plant-care app called “Sprout”, that is focussed on providing a clear, reliable, and easy-to-understand starting point and guidance in gardening for beginners. By providing a clear starting point as well as guidance and next steps, users who are just beginning their gardening journey can have the assurance that they will be carefully and kindly guided through the process, allowing it to be more meaningful and enjoyable for them.
+Thus with Sprout, I hope to provide a comprehensive plant-care platform that will be a the first-stop for beginners to gardening.
 
 ### Clear design statement 
 
@@ -17,6 +17,14 @@ The question therefore, is how can the experience of getting started with garden
 ### Competitor analysis
 #### Heuristic Evaluation
 The first step in my project was conducting a heuristic evaluation of platforms that were on the same subject as my project. Thus I conducted a heuristics evaluation, based on Nielson’s 10 design heuristics, of the the GardenTags app, and the National Parks (Singapore) website. The purpose of this heuristics evaluation was to understand the features and effectiveness of available gardening resources, how suitable they might be for beginners, and what their shortcomings were. I found that the GardenTags app functioned more like a social media platform, allowing users to create a profile and add their plants to it, post pictures of their plants, and seek out advice from other users through commenting and messaging features. In terms of Nielson's heuristics, it had some issues with respect to intuitive design (#heuristic 2), as well as with flexibility and efficiency (heuristic #7) of features relating to plant search information and general flow of the app. The National Parks website meanwhile served more like a repository for useful gardening-related links, providing access to various documents and PDFs of plant recommendations and plant care tips. The main issues on this site in terms of Nielson's heuristics had to do with a lack of consistency between pages (heuristic #4) [...read more](https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/README.md)
+
+
+**GardenTags App:**                                                                                        
+<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/discover2.PNG" height="300px"> | <img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/discover1.PNG" height="300px">
+
+**National Parks Website:**
+
+<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/garden2.png" height="300px">
 
 #### Usability Testing
 Performing a usability test as part of the UX design process allows for an analysis of how to easy to use an app/website/platform is for the user, and in turn identify any significant design problems or barriers to a good user experience. Ultimately, the goal of usability testing is to be able to improve interaction with the app from a user's point of view. For my pilot usability test, I tested the GardenTags app for tasks that related to whether the user could access plant care information (through using the Tags and Encyclopaedia features) and plant purchase functionality on the app. Through the pilot test I was able to observe a user contend with the usability issues of the GardenTags app. The test demonstaretd that the user was unsure how to proceed initially with the tasks of searching for the tags and specific plant information, suggesting that the app is not inherently very intuitive. The test also demonstrated that the plant purchase functionality of the app was poorly designed and executed, and left the user unsure of how to proceed. The UT process thus revealed important design flaws to be analysed and improved upon in this app and be taken into account in the design of my app.[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment-02)
@@ -30,25 +38,58 @@ UX storytelling is a means by which to understand how users interact with a prod
 
 This is an example of one of the personas, Madeleine Maung:
 
-
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-Based on my prior heuristic evaluation and usability testing of a similar gardening app (GardenTags), interview and contextual inquiry of a user in my target demographic, and the personas and scenarios created, the features which I developed and tested using this low-fidelity prototype are - (1)receive personalised recommendations on which plants to grow; (2) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants; and (3) set up plant care tasks for chosen plants. Through this low-fidelity prototype, I wanted to test whether the features I came up with were easy to use, functional, and relevant to target users. [...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_05)
-
-### Low-fidelity prototype (wireflow, assignment06)
-The purpose of the low-fidelity prototype is start coming up with the potential wirefrmaes and wireflow of the various features in the app, and check to see if they are logical and functional. Thus, through my low-fidelity prototype, I wanted to test whether the features I came up with were easy to use, functional, and relevant to target users. 
-
-[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_05)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_1.png" height="250px"> | <img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_2.png" height="250px"> 
+<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_3.png" height="250px"> 
 
 
+### Low-fidelity prototype
+The purpose of the low-fidelity prototype is start coming up with the potential wirefrmaes and wireflow of the various features in the app, and check to see if they are logical and effective. Based on my prior heuristic evaluation and usability testing of a similar gardening app (GardenTags), interview and contextual inquiry of a user in my target demographic, and the personas and scenarios created, the features which I developed for the low-fidelity prototype are:
+
+- (1) Receive personalised recommendations on which plants to grow
+- (2) Access plant care information (how many times to water plants, what fertiliser to add, how much sunlight they need, troubleshooting and faqs) for chosen plants
+- (3) Set up plant care tasks for chosen plants.
+
+**Task (1) wireflow:**
+
+<img width="444" alt="Screenshot 2021-06-02 at 9 54 22 PM" src="https://user-images.githubusercontent.com/49219437/120492948-19a76b80-c3ed-11eb-9f83-e56372b34347.png">
+
+
+**Task (2) wireflow:**
+
+<img width="457" alt="Screenshot 2021-06-02 at 9 54 43 PM" src="https://user-images.githubusercontent.com/49219437/120493003-262bc400-c3ed-11eb-920b-0161d8f84008.png">
+
+**Task (3) wireflow:**
+
+<img width="438" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">
+
+
+
+
+Thus, through my low-fidelity prototype, I wanted to test whether the three features I came up with were easy to use, functional, and relevant to target users. 
+
+
+
+
+
+Conducting the wireflow tests showed me that the features I came up with are fundamentally useful and easy to understand, which aligned with my goals for this project to make gardening more clear and accessible to beginners. However it has also shown me some of the mistakes in specific details or interactions I have made while designing the features to be improved upon.[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_05)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+The purpose of this high-fidelity prototype is to visualise the various interfaces and functionalities within this app. By visualising the interfaces in a format users are familiar with, I hope to gain an understanding of how they will interact with the app, what features and functionalities they find useful or not, and make any improvements accordingly to enhance the overall user experience of the app.
 
-[Read more about High-fidelity prototype here](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
+This high-fidelity prototype has been the culmination of research and information gained from previous steps including usabability testing, contextual inquiry and interview, persona creation, as well as low-fidelity prototyping. These previous steps have allowed me to gather valuable data regarding target users' thoughts, needs, and concerns about starting gardening, features they liked/disliked in other gardening apps and websites, features they would like to see in an app such as the one being prototyped here, as well as their natural interactions with the flow of interfaces in the low-fidelity protoype. 
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Based on observations and feedback from the previous steps, I made some improvements to my interfaces and features from the low-fidelity prototype to create the following high-fidelity prototype using Figma, incorporating necessary features of user interface (UI) design. Through this high-fidelity prototyping I created  an graphic design element variations, conducted an accessibility check to ensure the prototype is WCAG2.0 AA compliant, interactive prototype, and an impression test and cognitive walkthroigh to understand the user's impressions and perceptions of the prototype interfaces.
+
+**Wireframes and Wireflow**
+<img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
+
+**Interactive Prototype:**
+```figma
+https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype?node-id=1%3A2&scaling=scale-down&page-id=0%3A1
+```
+
+[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
+
 
 ### Pitch video 
 
