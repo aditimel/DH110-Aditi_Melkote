@@ -81,7 +81,12 @@ This high-fidelity prototype has been the culmination of research and informatio
 Based on observations and feedback from the previous steps, I made some improvements to my interfaces and features from the low-fidelity prototype to create the following high-fidelity prototype using Figma, incorporating necessary features of user interface (UI) design. Through this high-fidelity prototyping I created  an graphic design element variations, conducted an accessibility check to ensure the prototype is WCAG2.0 AA compliant, interactive prototype, and an impression test and cognitive walkthroigh to understand the user's impressions and perceptions of the prototype interfaces.
 
 **Wireframes and Wireflow**
+
 <img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
+
+**Graphic design variation**
+<img width="557" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
+
 
 **Interactive Prototype:**
 
