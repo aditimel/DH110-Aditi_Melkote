@@ -84,9 +84,7 @@ Based on observations and feedback from the previous steps, I made some improvem
 <img width="767" alt="Screenshot 2021-06-02 at 10 56 06 PM" src="https://user-images.githubusercontent.com/49219437/120503255-b8d06100-c3f5-11eb-8307-7701cdb42f43.png">
 
 **Interactive Prototype:**
-```figma
-https://www.figma.com/proto/f7e0D0pwHLVgErHCEI2HDe/Interactive-prototype?node-id=1%3A2&scaling=scale-down&page-id=0%3A1
-```
+
 
 [...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
