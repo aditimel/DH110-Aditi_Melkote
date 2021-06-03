@@ -20,11 +20,11 @@ The first step in my project was conducting a heuristic evaluation of platforms 
 
 
 **GardenTags App:**                                                                                        
-<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/discover2.PNG" height="300px"> | <img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/discover1.PNG" height="300px">
+<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/discover2.PNG" height="300px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/discover1.PNG" height="300px">
 
 **National Parks Website:**
 
-<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/garden2.png" height="300px">
+<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/garden2.png" height="300px">
 
 #### Usability Testing
 Performing a usability test as part of the UX design process allows for an analysis of how to easy to use an app/website/platform is for the user, and in turn identify any significant design problems or barriers to a good user experience. Ultimately, the goal of usability testing is to be able to improve interaction with the app from a user's point of view. For my pilot usability test, I tested the GardenTags app for tasks that related to whether the user could access plant care information (through using the Tags and Encyclopaedia features) and plant purchase functionality on the app. Through the pilot test I was able to observe a user contend with the usability issues of the GardenTags app. The test demonstaretd that the user was unsure how to proceed initially with the tasks of searching for the tags and specific plant information, suggesting that the app is not inherently very intuitive. The test also demonstrated that the plant purchase functionality of the app was poorly designed and executed, and left the user unsure of how to proceed. The UT process thus revealed important design flaws to be analysed and improved upon in this app and be taken into account in the design of my app.[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment-02)
@@ -41,8 +41,8 @@ UX storytelling is a means by which to understand how users interact with a prod
 
 This is an example of one of the personas, Madeleine Maung:
 
-<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_1.png" height="250px"> | <img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_2.png" height="250px"> 
-<img src="https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/images/mad_3.png" height="250px"> 
+<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_1.png" height="250px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_2.png" height="250px"> 
+<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_3.png" height="250px"> 
 
 
 ### Low-fidelity prototype
