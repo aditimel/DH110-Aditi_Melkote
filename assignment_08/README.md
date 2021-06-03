@@ -96,7 +96,11 @@ The following are three design variations of the "add-task-1" screen (see Task 3
 [...read more about the High-fidelity prototyping, impression test and cognitive walkthrough](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
 ### Pitch video 
-[![Pitch video](https://i9.ytimg.com/vi/nr9PxXmQX6c/mq1.jpg?sqp=COCq4oUG&rs=AOn4CLBEaLSl48Ya73OOoB2r7cvIFlfTPw)](https://youtu.be/nr9PxXmQX6c)
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/nr9PxXmQX6c" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 
 ### Conclusion
