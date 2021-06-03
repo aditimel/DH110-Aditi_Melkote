@@ -86,12 +86,12 @@ To improve upon individual wireflows for each task I initially had, I connected 
 
 The following are three design variations of the "add-task-1" screen (see Task 3 above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
 
-<img width="800" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
+<img width="600" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
 
 
 **Interactive Prototype:**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ff7e0D0pwHLVgErHCEI2HDe%2FInteractive-prototype%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ff7e0D0pwHLVgErHCEI2HDe%2FInteractive-prototype%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 [...read more about the High-fidelity prototyping, impression test and cognitive walkthrough](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
