@@ -36,6 +36,7 @@ The main insight I got from this processs had to do with some of the specific co
 UX storytelling is a means by which to understand how users interact with a product, and see things from the user's perspective. This process involves creating personas of potential users of the product in order to understand and develop emapthy for users' goals and challenges, their expectations of the product, what purpose they want it to fulfil in their lives, all of which will allow us to introduce or improve upon features to enhance their user experience accordingly. In my target demographic (gardening beginners; age range :teens, 20-30,40 year olds; familiar with technology), I developed two personas and their scenarios:
 - **(1) Madeleine, an extremely busy but forgetful university student, who wants to grow plants to spruce up her dorm room and make it feel more relaxing**
 - **(2) Ciaran, a lonely photographer who is struggling with depression and has been advised by his therapist to grow plants as a soothing activity.**
+
 Both personas primarily encompass individuals who are beginners to gardening or have a little prior experience, are teenagers or individuals in their 20s or 30s, have some experience with using apps and technology such that they would prefer to learn about track plant care on an app, have specific individual requirements when it comes to growing plants, and want a solution that provides clear and personalised plant-care guidance. [...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_04)
 
 This is an example of one of the personas, Madeleine Maung:
@@ -62,7 +63,7 @@ Thus, through my low-fidelity prototype, I wanted to test whether the three feat
 
 |**Task (3) wireflow:**|
 |----------------------|
-<img width="457" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">|
+<img width="400" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">|
 
 
 
