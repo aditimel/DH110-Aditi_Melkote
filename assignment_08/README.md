@@ -97,9 +97,11 @@ The following are three design variations of the "add-task-1" screen (see Task 3
 
 ### Pitch video 
 
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/nr9PxXmQX6c" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/nr9PxXmQX6c" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 
 ### Conclusion
