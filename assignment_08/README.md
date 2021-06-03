@@ -102,7 +102,6 @@ The following are three design variations of the "add-task-1" screen (see Task 3
 </figure>
 
 
-
 ### Conclusion
 Overall, I really found the entire process of working on this project really interesting and enjoyable! Being new to the discipline of UX design, every week I learned something every week through lecture and working on building this project. It has taught me the **fundamental importance of focussing on the user's perspective in design** - keeping in mind what the user's response, attitude, feelings, usage patterns, and expectations from the product, as ultimately it is being designed for users and it is important that they have a good experience using the product and benefit from their interaction with it in some way. This user-focussed approach to design was not something I really thought of initially, but a mindset I have develeoped working on this project that has proved to be very useful and important in guiding the course of the final outcome of the high-fidelity prototype. 
 
