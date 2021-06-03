@@ -19,12 +19,10 @@ The question therefore, is how can the experience of getting started with garden
 The first step in my project was conducting a heuristic evaluation of platforms that were on the same subject as my project. Thus I conducted a heuristics evaluation, based on Nielson’s 10 design heuristics, of the GardenTags app, and the National Parks (Singapore) website. The purpose of this heuristics evaluation was to understand the features and effectiveness of available gardening resources, how suitable they might be for beginners, and what their shortcomings were. I found that the GardenTags app functioned more like a social media platform, allowing users to create a profile and add their plants to it, post pictures of their plants, and seek out advice from other users through commenting and messaging features. In terms of Nielson's heuristics, it had some issues with respect to intuitive design (#heuristic 2), as well as with flexibility and efficiency (heuristic #7) of features relating to plant search information and general flow of the app. The National Parks website meanwhile served more like a repository for useful gardening-related links, providing access to various documents and PDFs of plant recommendations and plant care tips. The main issues on this site in terms of Nielson's heuristics had to do with a lack of consistency between pages (heuristic #4) [...read more](https://github.com/aditimel/DH110-Aditi_Melkote/blob/main/README.md)
 
 
-**GardenTags App:**                                                                                        
-<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/discover2.PNG" height="300px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/discover1.PNG" height="300px">
+|**GardenTags App**   |    **National Parks Website**  |   
+| -------------------- |------------------------------- |
+|<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/discover2.PNG" height="300px">|<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/garden2.png" height="300px"> |
 
-**National Parks Website:**
-
-<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/garden2.png" height="300px">
 
 #### Usability Testing
 Performing a usability test as part of the UX design process allows for an analysis of how to easy to use an app/website/platform is for the user, and in turn identify any significant design problems or barriers to a good user experience. Ultimately, the goal of usability testing is to be able to improve interaction with the app from a user's point of view. So for my pilot usability test, I tested the GardenTags app for tasks that related to whether the user could access plant care information (through using the Tags and Encyclopaedia features) and plant purchase functionality on the app. Through the pilot test I was able to observe a user contend with the usability issues of the GardenTags app. The test demonstaretd that the user was unsure how to proceed initially with the tasks of searching for the tags and specific plant information, suggesting that the app is not inherently very intuitive. The test also demonstrated that the plant purchase functionality of the app was poorly designed and executed, and left the user unsure of how to proceed. The UT process thus revealed important design flaws to be analysed and improved upon in this app and be taken into account in the design of my app.[...read more](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment-02)
@@ -42,7 +40,9 @@ Both personas primarily encompass individuals who are beginners to gardening or 
 
 This is an example of one of the personas, Madeleine Maung:
 
-<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_1.png" height="250px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_2.png" height="250px"> 
+| **Madeleine's Persona** | **Madeleine's Empathy Map** |
+|-------------------------|-----------------------------|
+|<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_1.png" height="250px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_2.png" height="250px"> |
 
 
 
@@ -55,18 +55,14 @@ The purpose of the low-fidelity prototype is start coming up with the potential 
 
 Thus, through my low-fidelity prototype, I wanted to test whether the three features I came up with were easy to use, functional, and relevant to target users. 
 
-**Task (1) wireflow:**
+|**Task (1) wireflow:**|**Task (2) wireflow:**|
+|----------------------|----------------------|
+|<img width="700" alt="Screenshot 2021-06-02 at 9 54 22 PM" src="https://user-images.githubusercontent.com/49219437/120492948-19a76b80-c3ed-11eb-9f83-e56372b34347.png">|<img width="700" alt="Screenshot 2021-06-03 at 12 24 26 PM" src="https://user-images.githubusercontent.com/49219437/120586746-a6424000-c466-11eb-9c54-48c40fc2f55b.png">|
 
-<img width="444" alt="Screenshot 2021-06-02 at 9 54 22 PM" src="https://user-images.githubusercontent.com/49219437/120492948-19a76b80-c3ed-11eb-9f83-e56372b34347.png">
 
-
-**Task (2) wireflow:**
-
-<img width="457" alt="Screenshot 2021-06-02 at 9 54 43 PM" src="https://user-images.githubusercontent.com/49219437/120493003-262bc400-c3ed-11eb-920b-0161d8f84008.png">
-
-**Task (3) wireflow:**
-
-<img width="438" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">
+|**Task (3) wireflow:**|
+|----------------------|
+<img width="457" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">|
 
 
 
@@ -89,12 +85,12 @@ To improve upon individual wireflows for each task I initially had, I connected 
 
 The following are three design variations of the "add-task-1" screen (see Task 3 above). The three variations are yellow-tinted, which is the main theme, a darkmode variation, and a lightmode variation.
 
-<img width="600" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
+<img width="800" alt="Screenshot 2021-06-02 at 11 21 39 PM" src="https://user-images.githubusercontent.com/49219437/120507337-4c576100-c3f9-11eb-80b6-82ab00a26c88.png">
 
 
 **Interactive Prototype:**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ff7e0D0pwHLVgErHCEI2HDe%2FInteractive-prototype%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ff7e0D0pwHLVgErHCEI2HDe%2FInteractive-prototype%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 [...read more about the High-fidelity prototyping, impression test and cognitive walkthrough](https://github.com/aditimel/DH110-Aditi_Melkote/tree/main/assignment_06)
 
