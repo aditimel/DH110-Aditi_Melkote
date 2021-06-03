@@ -42,8 +42,8 @@ Both personas primarily encompass individuals who are beginners to gardening or 
 
 This is an example of one of the personas, Madeleine Maung:
 
-<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_1.png" height="200px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_2.png" height="200px"> 
-<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_3.png" height="200px"> 
+<img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_1.png" height="250px"> | <img src="https://raw.githubusercontent.com/aditimel/DH110-Aditi_Melkote/main/images/mad_2.png" height="250px"> 
+
 
 
 ### Low-fidelity prototype
