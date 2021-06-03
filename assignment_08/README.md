@@ -99,7 +99,7 @@ The following are three design variations of the "add-task-1" screen (see Task 3
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/nr9PxXmQX6c" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/nr9PxXmQX6c" frameborder="0" allowfullscreen="true" height="300"> </iframe>
 </figure>
 <!-- blank line -->
 
