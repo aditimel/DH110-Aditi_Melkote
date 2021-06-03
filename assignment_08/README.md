@@ -63,7 +63,7 @@ Thus, through my low-fidelity prototype, I wanted to test whether the three feat
 
 |**Task (3) wireflow:**|
 |----------------------|
-<img width="400" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">|
+<img width="350" alt="Screenshot 2021-06-02 at 9 54 57 PM" src="https://user-images.githubusercontent.com/49219437/120493030-2d52d200-c3ed-11eb-94be-f33b8393f1e2.png">|
 
 
 
